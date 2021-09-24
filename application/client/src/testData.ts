@@ -1,6 +1,6 @@
-import {Data} from "./dataShapes";
+import {DashboardData} from "./DashboardBoxList";
 
-export function getTestData(date: Date): Data[] {
+export function getTestData(date: Date): DashboardData[] {
     return [
         {
             id: 1,

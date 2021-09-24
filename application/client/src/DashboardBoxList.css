@@ -1,0 +1,10 @@
+.Dashboard-box {
+  padding: 2em;
+  background-color: #adf0ff;
+  margin: 1em;
+  width: 30%;
+}
+
+.MuiTypography-body1 {
+  font-size: 2em !important;
+}
